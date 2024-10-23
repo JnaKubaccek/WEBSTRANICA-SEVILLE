@@ -1,0 +1,44 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(1, 201, 156) cover;
+}
+
+header{
+    margin-top: 2%;
+    color:rgb(0, 0, 0);
+    background-color: rgb(250, 241, 114);
+    
+}
+
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(1, 201, 156);
+    height: cover;
+}
+
+#home{
+    color:rgb(0, 0, 0)
+}
+
+
+#podstr{
+    color:rgb(0, 0, 0)
+}
+
+center{
+    margin-left:7%;
+    margin-right:7%;
+}
+
+h1{
+    font-size: 46px;
+    letter-spacing: 3px;
+}
+h2{
+    background-color:  rgba(5,155,163);
+    width: 60%;
+}
+
+#help{
+    color:black;
+}
